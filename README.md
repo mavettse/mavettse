@@ -1,26 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zen+Dots&pause=1000&color=1D4FF7&vCenter=true&width=435&lines=Hello+world!+%F0%9F%91%8B%F0%9F%8F%BE+I'm+Giovanni+Estevam)](https://git.io/typing-svg)
+<h2 align="left">Hello world! 👋🏾 My name is Giovanni Estevam</h2>
 
-<img src="https://img2.joyreactor.com/pics/post/gif-pixeljeff-pixel-art-8241737.gif" alt="Pixel Art" align="right" width="200">
+###
 
-### Technologies and tools:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mavettse&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+</div>
 
-<div style="display: inline_block"><br>   
-  <img align="center" alt="Giovanni-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Giovanni-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div><br>
+###
 
-### GitHub Stats
+<img align="right" height="150" src="https://img2.joyreactor.com/pics/post/gif-pixeljeff-pixel-art-8241737.gif"  />
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/mavettse">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=mavettse&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavettse&layout=compact&langs_count=7&theme=one_dark_pro"/>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mavettse/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:giovanni.estevam.04@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/467386211216916501" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-    
-### Contact
 
-<div> 
-  <a href="https://www.linkedin.com/in/mavettse" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:giovanni.estevam.04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mavettse/mavettse/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/twickbg1n1ra1mbed7pbtd2gj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=twickbg1n1ra1mbed7pbtd2gj&count=4" alt="Spotify recently played"  />
+  </a>
 </div>
+
+###
