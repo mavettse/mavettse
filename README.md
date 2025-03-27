@@ -34,12 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mavettse/mavettse/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/twickbg1n1ra1mbed7pbtd2gj">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=twickbg1n1ra1mbed7pbtd2gj&count=4" alt="Spotify recently played"  />
