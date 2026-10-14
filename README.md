@@ -4,7 +4,7 @@
 
 ### About Me
 
-* **Education:** Computer Engineering at CEFET-MG.
+* **Education:** Computer Engineering at UFCI-MG (former CEFET-MG).
 * **Competitive Programming:** Active member of the Competitive Computing Group (GCC) at my university. I regularly practice Data Structures and Algorithms and solve problems to improve my logical thinking.
 * **Goals:** Writing clean, efficient, and maintainable code.
   
